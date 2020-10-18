@@ -1,1 +1,3 @@
-holamundo
+<?php
+  echo "holamundo";
+?>
